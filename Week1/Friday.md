@@ -3,7 +3,7 @@ What is a ‘Controlled Component’?
 
 
 Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
-
+- It should be updated as soon as they enter them, it can be very annoying and an inconvenience if its a constant update.
 
 
 
