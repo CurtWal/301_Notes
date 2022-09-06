@@ -1,4 +1,4 @@
-Friday August 2, 2022
+Friday September 2, 2022
 
 In your own words, describe what each group of status code represents:
 

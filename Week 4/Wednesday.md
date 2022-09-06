@@ -21,7 +21,7 @@ What kind of data is a good fit for an SQL database?
 
 
 Give a real world example.
-- 
+- ecommerce type
 
 
 What kind of data is a good fit a NoSQL database?
@@ -29,7 +29,7 @@ What kind of data is a good fit a NoSQL database?
 
 
 Give a real world example.
-- 
+- A family tree
 
 
 Which type of database is best for hierarchical data storage?
