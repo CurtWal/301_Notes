@@ -9,7 +9,7 @@ Give an example of what using OAuth would look like.
 
 
 How does OAuth work? What are the steps that it takes to authenticate the user?
--  The first website connects to the second website on behalf of the user. Then the second site generates a one-time token and a one-time secret unique to the transaction and parties involved.
+-  the first site connects to the second site using OAuth, providing user's verified identity then the second site generates a 1 time token and secret. The first site gives the token and secret to the initiating user's client software. After the client's software gives request token and secret to authorization provider. Client may be asked to authenticate if not done already. Client asked to approve authorization to the second site. The user/user's software approves transaction to the first site. User's given approved access token. User gives approved access token to the first site. The the first site gives access token to the second site as proof of authentication.The second site lets the first site access their site on user's behalf. And lastly the user sees successfully completed transaction occurring.
 
 
 What is OpenID?
