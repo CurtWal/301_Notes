@@ -1,4 +1,4 @@
-Monday September 6 , 2022
+Tuesday September 6 , 2022
 
 
 Which HTTP method would you use to update a record through an API?
